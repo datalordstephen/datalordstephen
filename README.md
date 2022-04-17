@@ -38,3 +38,6 @@ I'm really interested in Computer vision and NLP and I love watching football (a
 ### Before you leave, check out my most used languages!
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=datalordstephen)
+### And my Github Stats!
+
+![image](https://github-readme-stats.vercel.app/api?username=datalordstephen)
