@@ -3,7 +3,7 @@
 I'm Stephen Adegbokun, and welcome to my github profile🙃
 
 ## 🚀 About Me
-I'm a Machine Learning Engineer passionate about solving problems with tech!
+I'm a Machine Learning Engineer passionate about solving problems with AI!
 I'm really interested in Computer vision and APIs and I love watching football (and anime👀).
 
 ## Also About Me 😅
