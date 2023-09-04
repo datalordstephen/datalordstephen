@@ -1,9 +1,5 @@
-Hi 👋 My name is Stephen
+Hi, I'm Stephen👽
 ========================
-
-ML Engineer
------------
-
 I'm an engineer who employs AI (or not) in solving problems. I'm interested in Vision, Large Language Models (LLMs) and backend development.
 
 * 🌍  I'm based in Nigeria
