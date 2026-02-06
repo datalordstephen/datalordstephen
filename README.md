@@ -9,4 +9,6 @@ I'm an engineer who employs AI (or not) in solving problems. I'm currently learn
 
 <b>My GitHub Stats</b>
 
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=datalordstephen&show_icons=true&theme=radical)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
