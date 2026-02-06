@@ -1,6 +1,15 @@
-Hi, I'm Stephen
-========================
-I'm an engineer who employs AI (or not) in solving problems. I'm currently learning about LLMs and RAG, as well as building my portfolio in public.
+# Hi, I'm Stephen 🗿
+
+**AI/ML Engineer**
+
+I’m an engineer focused on the intersection of Machine Learning and scalable software. I build systems that solve problems—sometimes with AI, sometimes with just good logic.
+
+- 📚 **Learning about:** Agents, MCP serves and Multi-Agent systems
+- 🛠️ **Building:** LLM-powered applications and RAG pipelines (FinQuery).
+- ⚙️ **Focus:** MLOps, PyTorch, and deploying models that actually work.
+- 📍 Based in Lagos, Nigeria.
+
+[LinkedIn](https://www.linkedin.com/in/stephen-adegbokun/) | [Portfolio](https://datalordstephen.github.io/)
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,tensorflow,git,github,docker,&theme=dark)](https://skillicons.dev)
@@ -11,4 +20,3 @@ I'm an engineer who employs AI (or not) in solving problems. I'm currently learn
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
